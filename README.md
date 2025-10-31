@@ -31,4 +31,4 @@ California Housing Price (Kaggle version) or use the AutoGluon example loader.
 All paths used in notebooks default to data/ inside the repo; adjust if needed.
 
 ## Video Walkthrough
-- Videos for part B are located under the videos folder
+- Videos for part B are located in videos folder
